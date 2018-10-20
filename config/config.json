@@ -1,0 +1,12 @@
+{
+	"test": {
+		"PORT": 3000,
+		"MONGODB_URI": "mongodb://localhost:27017/MeanStack",
+		"JWT_SECRET": "dkjvdskvk~!@#$%^&*()"
+	},
+	"development": {
+		"PORT": 3000,
+		"MONGODB_URI": "mongodb://localhost:27017/MeanStackTest",
+		"JWT_SECRET": "kdshvbsdkvbldsbvkjesbvkewbvj`12345678op"
+	}
+}
